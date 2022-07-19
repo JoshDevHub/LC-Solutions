@@ -6,7 +6,7 @@ A repository of my solutions on LeetCode
 | Problem | Ruby  | JS | C# |
 | ------- | :---: | -- | -- |
 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree)  | :heavy_check_mark: | | 
-| [Binary Search](https://leetcode.com/problems/binary-search)  | :heavy_check_mark: | | 
+| [Binary Search](https://leetcode.com/problems/binary-search)  | :heavy_check_mark: | :heavy_check_mark: | 
 | [Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)  | :heavy_check_mark: | :heavy_check_mark: | 
 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | :heavy_check_mark: | | 
 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | :heavy_check_mark: |  |
