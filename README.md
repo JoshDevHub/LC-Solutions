@@ -13,6 +13,7 @@ A repository of my solutions on LeetCode
 | [Flood Fill](https://leetcode.com/problems/flood-fill)  | :heavy_check_mark: |  | 
 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree)  | :heavy_check_mark: |  | 
 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle)  | :heavy_check_mark: |  | 
+| [Longest Palindrome](https://leetcode.com/problems/longest-palindrome) | :heavy_check_mark: | |
 | [Lowest Common Ancestor in BST](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree)  | :heavy_check_mark: |  | 
 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray)  | :heavy_check_mark: | :heavy_check_mark: | 
 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)  | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:
