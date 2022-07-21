@@ -19,6 +19,7 @@ A repository of my solutions on LeetCode
 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)  | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:
 | [Palindrome Number](https://leetcode.com/problems/palindrom-number)  | :heavy_check_mark: |  |
 | [Ransom Note](https://leetcode.com/problems/ransom-note) | :heavy_check_mark: |  |
+| [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | :heavy_check_mark: |  |
 | [Queue Using Stacks](https://leetcode.com/problems/implement-queue-using-stacks) | :heavy_check_mark: |  |
 | [Two Sum](https://leetcode.com/problems/two-sum)  | :heavy_check_mark: | :heavy_check_mark: | 
 | [Valid Anagram](https://leetcode.com/problems/valid-anagram)  | :heavy_check_mark: | :heavy_check_mark: | 
