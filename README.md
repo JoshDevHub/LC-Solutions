@@ -18,6 +18,7 @@ A repository of my solutions on LeetCode
 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome) | :heavy_check_mark: | |
 | [Lowest Common Ancestor in BST](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree)  | :heavy_check_mark: |  | 
 | [Majority Element](https://leetcode.com/problems/majority-element) | :heavy_check_mark: |  |
+| [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | :heavy_check_mark: | |
 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray)  | :heavy_check_mark: | :heavy_check_mark: | 
 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)  | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:
 | [Middle of Linked List](https://leetcode.com/problems/middle-of-the-linked-list) | :heavy_check_mark: | |
