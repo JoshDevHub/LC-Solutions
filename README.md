@@ -10,6 +10,7 @@ A repository of my solutions on LeetCode
 | [Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)  | :heavy_check_mark: | :heavy_check_mark: | 
 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | :heavy_check_mark: |  |
 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | :heavy_check_mark: | | 
+| [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree) | :heavy_check_mark: | |
 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | :heavy_check_mark: |  |
 | [Flood Fill](https://leetcode.com/problems/flood-fill)  | :heavy_check_mark: |  | 
 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree)  | :heavy_check_mark: |  | 
