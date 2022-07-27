@@ -7,6 +7,7 @@ A repository of my solutions on LeetCode
 | ------- | :---: | -- | -- |
 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree)  | :heavy_check_mark: | | 
 | [Binary Search](https://leetcode.com/problems/binary-search)  | :heavy_check_mark: | :heavy_check_mark: | 
+| [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) | :heavy_check_mark: | |
 | [Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)  | :heavy_check_mark: | :heavy_check_mark: | 
 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | :heavy_check_mark: |  |
 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | :heavy_check_mark: | | 
