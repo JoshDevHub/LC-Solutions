@@ -3,7 +3,7 @@
 require "set"
 
 def update_matrix(mat)
-  queue, visited = init_structures(row_size, col_size, mat)
+  queue, visited = init_structures(mat)
   bfs(queue, visited, mat)
   mat
 end
