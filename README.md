@@ -14,6 +14,7 @@ A repository of my solutions on LeetCode
 | [Clone Graph](https://leetcode.com/problems/clone-graph/) | :heavy_check_mark: | |
 | [Closest K Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin) | :heavy_check_mark: | |
 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree) | :heavy_check_mark: | |
+| [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation) | :heavy_check_mark: | |
 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | :heavy_check_mark: |  |
 | [Flood Fill](https://leetcode.com/problems/flood-fill)  | :heavy_check_mark: |  | 
 | [Insert Interval](https://leetcode.com/problems/insert-interval/) | :heavy_check_mark: | |
