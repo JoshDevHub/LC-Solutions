@@ -27,6 +27,7 @@ A repository of my solutions on LeetCode
 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray)  | :heavy_check_mark: | :heavy_check_mark: | 
 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)  | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:
 | [Middle of Linked List](https://leetcode.com/problems/middle-of-the-linked-list) | :heavy_check_mark: | |
+| [Min Stack](https://leetcode.com/problems/min-stack) | :heavy_check_mark: | |
 | [Palindrome Number](https://leetcode.com/problems/palindrom-number)  | :heavy_check_mark: |  |
 | [Ransom Note](https://leetcode.com/problems/ransom-note) | :heavy_check_mark: |  |
 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | :heavy_check_mark: |  |
