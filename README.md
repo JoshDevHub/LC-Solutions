@@ -34,6 +34,7 @@ A repository of my solutions on LeetCode
 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | :heavy_check_mark: |  |
 | [Queue Using Stacks](https://leetcode.com/problems/implement-queue-using-stacks) | :heavy_check_mark: |  |
 | [Three Sum](https://leetcode.com/problems/3sum/) | :heavy_check_mark: | |
+| [Implement Trie Prefix Tree](https://leetcode.com/problems/implement-trie-prefix-tree/) | :heavy_check_mark: | |
 | [Two Sum](https://leetcode.com/problems/two-sum)  | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:
 | [Valid Anagram](https://leetcode.com/problems/valid-anagram)  | :heavy_check_mark: | :heavy_check_mark: | 
 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses)  | :heavy_check_mark: | :heavy_check_mark: | 
