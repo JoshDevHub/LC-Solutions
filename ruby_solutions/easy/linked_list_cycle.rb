@@ -25,3 +25,19 @@ def cycle?(head)
   end
   false
 end
+
+# two pointer
+def two_pointer_cycle?(head)
+  return false if head.nil?
+
+  slow_pointer = head
+  fast_pointer = head
+  until fast_pointer.nil?
+    fast_pointer = fast_pointer.next&.next
+    return false if fast_pointer.nil?
+
+    slow_pointer = slow_pointer.next
+    return true if fast_pointer == slow_pointer
+  end
+  false
+end
