@@ -28,7 +28,7 @@ A repository of my solutions on LeetCode
 | [Two Sum](https://leetcode.com/problems/two-sum)  | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:
 | [Valid Anagram](https://leetcode.com/problems/valid-anagram)  | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:
 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome)  | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:
-| [Valid Parentheses](https://leetcode.com/problems/valid-parentheses)  | :heavy_check_mark: | :heavy_check_mark: | 
+| [Valid Parentheses](https://leetcode.com/problems/valid-parentheses)  | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:
 
 ### Medium Problems
 | Problem | Ruby  | JS | C# |
