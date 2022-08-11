@@ -36,6 +36,7 @@ A repository of my solutions on LeetCode
 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) | :heavy_check_mark: | |
 | [Closest K Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin) | :heavy_check_mark: | |
 | [Clone Graph](https://leetcode.com/problems/clone-graph/) | :heavy_check_mark: | |
+| [Coin Change](https://leetcode.com/problems/coin-change/) | :heavy_check_mark: | |
 | [Course Schedule](https://leetcode.com/problems/course-schedule/) | :heavy_check_mark: | |
 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation) | :heavy_check_mark: | |
 | [Implement Trie Prefix Tree](https://leetcode.com/problems/implement-trie-prefix-tree/) | :heavy_check_mark: | |
