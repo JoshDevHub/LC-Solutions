@@ -45,6 +45,7 @@ A repository of my solutions on LeetCode
 | [Min Stack](https://leetcode.com/problems/min-stack) | :heavy_check_mark: | |
 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | :heavy_check_mark: | |
 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | :heavy_check_mark: | |
+| [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | :heavy_check_mark: | |
 | [Three Sum](https://leetcode.com/problems/3sum/) | :heavy_check_mark: | |
 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | :heavy_check_mark: | |
 
