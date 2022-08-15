@@ -13,7 +13,7 @@ A repository of my solutions on LeetCode
 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree) | :heavy_check_mark: | |
 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | :heavy_check_mark: |  |
 | [Flood Fill](https://leetcode.com/problems/flood-fill)  | :heavy_check_mark: |  | 
-| [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree)  | :heavy_check_mark: |  | :heavy_check_mark:
+| [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree)  | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:
 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle)  | :heavy_check_mark: |  | 
 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome) | :heavy_check_mark: | |
 | [Lowest Common Ancestor in BST](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree)  | :heavy_check_mark: |  | 
