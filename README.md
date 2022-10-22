@@ -39,9 +39,10 @@ A repository of my solutions on LeetCode
 | [Coin Change](https://leetcode.com/problems/coin-change/) | :heavy_check_mark: | |
 | [Course Schedule](https://leetcode.com/problems/course-schedule/) | :heavy_check_mark: | |
 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation) | :heavy_check_mark: | |
+| [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | :heavy_check_mark: | |
 | [Implement Trie Prefix Tree](https://leetcode.com/problems/implement-trie-prefix-tree/) | :heavy_check_mark: | |
 | [Insert Interval](https://leetcode.com/problems/insert-interval/) | :heavy_check_mark: | |
-| [Maximum Subarray](https://leetcode.com/problems/maximum-subarray)  | :heavy_check_mark: | :heavy_check_mark: | 
+| [Maximum Subarray](https://leetcode.com/problems/maximum-subarray)  | :heavy_check_mark: | :heavy_check_mark: |
 | [Min Stack](https://leetcode.com/problems/min-stack) | :heavy_check_mark: | |
 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | :heavy_check_mark: | |
 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | :heavy_check_mark: | |
