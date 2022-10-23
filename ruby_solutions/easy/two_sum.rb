@@ -8,5 +8,3 @@ def two_sum(nums, target)
     map[number] = index
   end
 end
-
-p two_sum([3, 3], 6)

@@ -1,11 +1,11 @@
 # frozen_string_literal: true
 
-require "debug"
-
+# simple solution
 def add_binary_simple(a, b)
   (a.to_i(2) + b.to_i(2)).to_s(2)
 end
 
+# more algorithmic
 def add_binary(a, b)
   a_end = a.length - 1
   b_end = b.length - 1
@@ -25,6 +25,3 @@ def add_binary(a, b)
   end
   carry == 0 ? binary_sum : "#{carry}#{binary_sum}"
 end
-
-p add_binary('11', '1')
-p add_binary("1010", "1011")

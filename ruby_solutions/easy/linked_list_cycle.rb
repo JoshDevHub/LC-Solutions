@@ -12,6 +12,7 @@ class ListNode
   end
 end
 
+# O(n) time and space
 def cycle?(head)
   return false if head.nil?
 
@@ -26,7 +27,7 @@ def cycle?(head)
   false
 end
 
-# two pointer
+# fast/slow pointer -> O(n) time O(1) space
 def two_pointer_cycle?(head)
   return false if head.nil?
 
