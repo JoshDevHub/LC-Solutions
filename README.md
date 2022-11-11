@@ -3,11 +3,11 @@ Leet Code Solutions
 A repository of my solutions on LeetCode
 
 ### Easy Problems
-| Problem | Ruby  | JS | C# |
-| ------- | :---: | -- | -- |
+| Problem | Ruby  | JS | C# | Python
+| ------- | :---: | -- | -- | :----:
 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree)  | :heavy_check_mark: | | 
 | [Binary Search](https://leetcode.com/problems/binary-search)  | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:
-| [Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)  | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:
+| [Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)  | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:
 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | :heavy_check_mark: |  |
 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | :heavy_check_mark: | :heavy_check_mark: | 
 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree) | :heavy_check_mark: | |
@@ -19,16 +19,16 @@ A repository of my solutions on LeetCode
 | [Lowest Common Ancestor in BST](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree)  | :heavy_check_mark: |  | 
 | [Majority Element](https://leetcode.com/problems/majority-element) | :heavy_check_mark: |  |
 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | :heavy_check_mark: | |
-| [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)  | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:
+| [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)  | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: 
 | [Middle of Linked List](https://leetcode.com/problems/middle-of-the-linked-list) | :heavy_check_mark: | |
 | [Palindrome Number](https://leetcode.com/problems/palindrom-number)  | :heavy_check_mark: |  |
 | [Ransom Note](https://leetcode.com/problems/ransom-note) | :heavy_check_mark: |  |
 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | :heavy_check_mark: |  |
 | [Queue Using Stacks](https://leetcode.com/problems/implement-queue-using-stacks) | :heavy_check_mark: |  |
-| [Two Sum](https://leetcode.com/problems/two-sum)  | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:
+| [Two Sum](https://leetcode.com/problems/two-sum)  | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:
 | [Valid Anagram](https://leetcode.com/problems/valid-anagram)  | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:
 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome)  | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:
-| [Valid Parentheses](https://leetcode.com/problems/valid-parentheses)  | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:
+| [Valid Parentheses](https://leetcode.com/problems/valid-parentheses)  | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:
 
 ### Medium Problems
 | Problem | Ruby  | JS | C# |
