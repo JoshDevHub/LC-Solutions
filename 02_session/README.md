@@ -28,3 +28,11 @@ My second session focused on the Grind 75 suite of problems
 | [Valid Anagram](https://leetcode.com/problems/valid-anagram)  | :heavy_check_mark:
 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome)  | :heavy_check_mark:
 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses)  | :heavy_check_mark:
+
+### Medium Problems
+| Problem | Done  |
+| ------- | :---: |
+| [01_Matrix](https://leetcode.com/problems/01-matrix/)  | :heavy_check_mark:
+| [Insert Interval](https://leetcode.com/problems/insert-interval/)  | :heavy_check_mark:
+| [K Closest Points](https://leetcode.com/problems/k-closest-points-to-origin)  | :heavy_check_mark:
+| [Longest Substring Without Repeats](https://leetcode.com/problems/longest-substring-without-repeating-characters)  | :heavy_check_mark:
