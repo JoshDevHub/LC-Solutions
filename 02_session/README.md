@@ -33,6 +33,8 @@ My second session focused on the Grind 75 suite of problems
 | Problem | Done  |
 | ------- | :---: |
 | [01_Matrix](https://leetcode.com/problems/01-matrix/)  | :heavy_check_mark:
+| [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)  | :heavy_check_mark:
 | [Insert Interval](https://leetcode.com/problems/insert-interval/)  | :heavy_check_mark:
 | [K Closest Points](https://leetcode.com/problems/k-closest-points-to-origin)  | :heavy_check_mark:
 | [Longest Substring Without Repeats](https://leetcode.com/problems/longest-substring-without-repeating-characters)  | :heavy_check_mark:
+
