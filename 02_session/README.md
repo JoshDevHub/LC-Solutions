@@ -34,8 +34,10 @@ My second session focused on the Grind 75 suite of problems
 | ------- | :---: |
 | [01_Matrix](https://leetcode.com/problems/01-matrix/)  | :heavy_check_mark:
 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)  | :heavy_check_mark:
+| [Clone Graph](https://leetcode.com/problems/clone-graph/)  | :heavy_check_mark:
 | [Insert Interval](https://leetcode.com/problems/insert-interval/)  | :heavy_check_mark:
 | [K Closest Points](https://leetcode.com/problems/k-closest-points-to-origin)  | :heavy_check_mark:
 | [Longest Substring Without Repeats](https://leetcode.com/problems/longest-substring-without-repeating-characters)  | :heavy_check_mark:
+| [Sorted Two Sum](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)  | :heavy_check_mark:
 | [Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)  | :heavy_check_mark:
 
