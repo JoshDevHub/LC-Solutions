@@ -40,4 +40,5 @@ My second session focused on the Grind 75 suite of problems
 | [Longest Substring Without Repeats](https://leetcode.com/problems/longest-substring-without-repeating-characters)  | :heavy_check_mark:
 | [Sorted Two Sum](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)  | :heavy_check_mark:
 | [Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)  | :heavy_check_mark:
+| [3Sum](https://leetcode.com/problems/3sum/description/)  | :heavy_check_mark:
 
